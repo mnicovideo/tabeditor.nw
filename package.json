@@ -1,0 +1,9 @@
+{
+  "name": "mii.bootstrap.navtab",
+  "main": "index.html",
+  "license": "MIT",
+  "window": {
+    "frame": false,
+    "toolbar": false
+  }
+}
